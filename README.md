@@ -1,6 +1,6 @@
 # IoC-Summer-2019-Python
 
-## Insitute of Coding Summer School - University of Exeter - 2019 - Python
+## Institute of Coding Summer School - University of Exeter - 2019 - Python
 
 Teaching resources for a one week introduction to programming in Python for students with no previous programming experience.
 
